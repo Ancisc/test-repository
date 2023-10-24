@@ -1,5 +1,9 @@
-# test-repository
+# Repositorio de ejemplo
 Es una prueba de las clases teóricas de explicación de git
 
 
-#primera actualización
+## Titulo ed nivel 2
+  -primera actualización
+  -segunda actualización
+
+  <Texto de ejemplo
