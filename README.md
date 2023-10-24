@@ -6,4 +6,4 @@ Es una prueba de las clases teóricas de explicación de git
   -primera actualización
   -segunda actualización
 
-  <Texto de ejemplo
+  >Texto de ejemplo
