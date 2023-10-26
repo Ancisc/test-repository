@@ -7,3 +7,5 @@ Es una prueba de las clases teóricas de explicación de git
   -segunda actualización
 
   >Texto de ejemplo
+
+Línea añadida en local.
